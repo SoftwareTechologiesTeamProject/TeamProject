@@ -7,7 +7,7 @@ namespace Rectangle_Area
         private static void Main(string[] args)
         {
             //We receive from the Console the length for side a -> a double;
-            double a = double.Parse(Console.ReadLine());
+            int a = int.Parse(Console.ReadLine());
             //We receive from the Console the length for side b -> a double;
             double b = double.Parse(Console.ReadLine());
             //We calculate rectangle surface area;
