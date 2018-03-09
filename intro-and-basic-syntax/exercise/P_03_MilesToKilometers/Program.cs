@@ -1,16 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//Comfirmed from prohause
+using System;
 
-namespace extendet1
+namespace P_03_MilesToKilometers
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-
             // Receive from the console the length in kilometers
             double distanceInKilometers = double.Parse(Console.ReadLine());
 
