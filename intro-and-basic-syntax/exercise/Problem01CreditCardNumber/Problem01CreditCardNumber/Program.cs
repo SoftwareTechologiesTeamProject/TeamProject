@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+//Confirmed from <vanya_ant>
+using System;
 
 namespace Problem01CreditCardNumber
 {
@@ -9,7 +11,7 @@ namespace Problem01CreditCardNumber
             // We recive groups of numbers
             int firstGroupChanged = int.Parse(Console.ReadLine());
             int secondGroup = int.Parse(Console.ReadLine());
-            int thirdGroup = double.Parse(Console.ReadLine());
+            int thirdGroup = int.Parse(Console.ReadLine());
             int fourthGroup = int.Parse(Console.ReadLine());
 
             // Print the credit card number
