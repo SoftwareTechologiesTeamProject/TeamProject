@@ -1,4 +1,5 @@
-﻿//Confirmed from <vanya_ant>
+﻿
+//Confirmed from <vanya_ant>
 using System;
 
 namespace Problem01CreditCardNumber
